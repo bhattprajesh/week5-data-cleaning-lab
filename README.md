@@ -22,7 +22,7 @@ This project demonstrates data cleaning and tidying techniques using Python, pan
 
 ```
 week5-lab/
-├── week5Lab_Completed.ipynb    # Main notebook with completed exercises
+├── week5Lab.ipynb    # Main notebook with completed exercises
 ├── requirements.txt             # Python package dependencies
 ├── .gitignore                   # Git ignore file
 ├── README.md                    # Project documentation (this file)

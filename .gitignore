@@ -83,6 +83,9 @@ venv.bak/
 *.xls
 data/
 CSVs/
+!CSVs/
+!CSVs/*.csv
+
 
 # Output files
 outputs/
